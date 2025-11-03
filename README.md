@@ -22,7 +22,7 @@ A powerful Telegram moderation bot that mutes users based on bio content (like l
 
 ### 🔵 Heroku (One-Click)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/spambotscoder/Biolink)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kittuop00/Biolink)
 
 > Fill in the required variables during deployment.
 
@@ -32,7 +32,7 @@ A powerful Telegram moderation bot that mutes users based on bio content (like l
 
 ```bash
 # Clone the repo
-git clone https://github.com/Aashik-team/Biolink.git
+git clone https://github.com/kittuop00/Biolink.git
 cd Biolink
 
 # Install dependencies
